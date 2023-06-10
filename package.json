@@ -1,0 +1,25 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kz2007/Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kz2007/Node.js/issues"
+  },
+  "homepage": "https://github.com/kz2007/Node.js#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.3"
+  }
+}
